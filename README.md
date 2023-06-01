@@ -1,2 +1,2 @@
 # Classifications
-Projects of binary classifications
+Projects on binary classifications using X-ray dataset of the trumoil measurement
